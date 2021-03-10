@@ -1,0 +1,10 @@
+1. James-Y
+2.(Beginning of Unit) Nothing except code is read from top to bottom.
+3.How to code in javascript
+4.w3schools
+5.Learn JavaScript
+6.JavaScript Info
+7.Developer Mozilla
+8.Learn-JS.org
+9.FreeCodeCamp
+10.Tutorial Republic
