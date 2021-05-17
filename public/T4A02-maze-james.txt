@@ -30,7 +30,7 @@ function myHitOther(my1,my2){
 
 <h1 align=center>T4A02-maze-Fred.html</h1>
 
-What we are going to do is take CSS positioning and Forms button and make something that moves across the screen.<br>
+<br>
 
 <input type=button value="Move 10 pixels right" onClick="{
    document.myXpixels = +10  // use -10 for going to the left
