@@ -57,7 +57,7 @@ function myCheckAll(){
 }">
 
 
-<h1 align=center>T4A04-WASD-Fred.html</h1>
+<h1 align=center>T4A04-WASD-james.html</h1>
 
 
 <input type=button value="Move 10 pixels right" onClick="{
