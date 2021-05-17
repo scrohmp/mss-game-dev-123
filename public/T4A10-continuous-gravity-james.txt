@@ -84,7 +84,7 @@ function myXAuto(){
 
 
 
-<h1 align=center>T4A10-continuous-gravity-fred.html</h1>
+<h1 align=center>T4A10-continuous-gravity-james.html</h1>
 
 
 <input type=button value="Move 10 right Auto" onClick="{
