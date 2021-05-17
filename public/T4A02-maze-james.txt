@@ -28,7 +28,7 @@ function myHitOther(my1,my2){
 
 
 
-<h1 align=center>T4A02-maze-Fred.html</h1>
+<h1 align=center>T4A02-maze-james.html</h1>
 
 <br>
 
