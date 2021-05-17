@@ -77,7 +77,7 @@ function myXAuto(){
 
 
 
-<h1 align=center>T4A05-continuous-bounce-fred.html</h1>
+<h1 align=center>T4A05-continuous-bounce-james.html</h1>
 
 
 <input type=button value="Move 10 right Auto" onClick="{
