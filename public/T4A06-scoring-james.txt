@@ -73,7 +73,7 @@ function myCheckAll(){
 }">
 
 
-<h3 align=center>T4A04-scoring-Fred.html</h3>
+<h3 align=center>T4A04-scoring-James.html</h3>
 
 Score: <input id="myTextScore" type=text value=0 ><br>
 
