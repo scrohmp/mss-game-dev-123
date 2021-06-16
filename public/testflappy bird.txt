@@ -1,6 +1,6 @@
 <body onmousedown="{
    
-  document.myGravity = -30
+  document.myGravity = -50
   setTimeout(function(){ document.myGravity = 5 }, 100); 
   myCheckAll()  
 
