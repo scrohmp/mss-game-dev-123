@@ -74,10 +74,10 @@ if (parseInt(document.getElementById('mySpan01').style.top) -5  > window.innerHe
 
 
 
-  if(myHitOther('mySpan01', 'mySpan200')){
-    document.getElementById('mySpan03').style.left = '-400px'
+  if(myHitOther('mySpan01', 'mySpan05')){
+    document.getElementById('mySpan05').style.left = '-400px'
     alert('You Win!')
-    location = 'https://google.ca'
+    location = 'testflappy bird.html'
   }
 
   // your other checks go here
@@ -95,7 +95,8 @@ function myXAuto(){
 
    document.getElementById('mySpan04').style.left = parseInt(document.getElementById('mySpan04').style.left) + document.myXmove 
  
-
+   document.getElementById('mySpan05').style.left = parseInt(document.getElementById('mySpan05').style.left) + document.myXmove 
+   
   myCheckAll()
 }
 
@@ -136,7 +137,9 @@ document.myXtimer = setInterval( myXAuto , document.myXspeed);
   <img src="https://raw.githubusercontent.com/scrohmp/mss-game-dev-123/main/public/BUP.jpg" width=100>
  </span><br>
 
-
+   
+   <span title="5"  id="mySpan05" style="position:absolute; left:1500; top:300; width:45; height:30"> 
+   win condition </span><br>
 
 
 </body>​
