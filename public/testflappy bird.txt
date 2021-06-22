@@ -110,7 +110,7 @@ document.myXtimer = setInterval( myXAuto , document.myXspeed);
 
 
 
-<h1 align=center>testflappy bird.txt version 0.0.2</h1>
+<h1 align=center>testflappy bird.txt version 0.0.3</h1>
 
 
 
@@ -123,7 +123,8 @@ document.myXtimer = setInterval( myXAuto , document.myXspeed);
 
 
 <span title="1" id="mySpan01" style="position:absolute; left:100; top:150; width:45; height:30">
-   Span 1 </span><br>
+   <img src="BUP.jpg" width=100>
+ </span><br>
 <span title="2"  id="mySpan02" style="position:absolute; left:900; top:100; width:45; height:30"> 
    Span 2 </span><br>
 <span title="3"  id="mySpan03" style="position:absolute; left:900; top:300; width:45; height:30"> 
